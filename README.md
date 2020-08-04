@@ -1,16 +1,23 @@
-### Hi there 👋
+# ToledoSDL
+#### Vulgo Hydra
+Oi, o meu nome é Lucas Toledo de Araújo, apelidados por muitas pessoas, como Toledo!
 
-<!--
-**ToledoSDL/ToledoSDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco mais sobre mim
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desde os 12 anos, eu programo, seja macro para minecraft, ou apenas um console.log("Hello World!")
+
+Nasci em algum lugar do Brasil, vivo bem de saúde, nunca namorei, assisto anime, jogo CS:GO (Prata 3 KKKKKKK)
+
+Atualmente frequentando os cursos da Rocket Seat | Next Level Week
+Um curso muito bom, recomendo a todos
+Estou estudando um pouco de C# Uma linguagem curiosa que me faz sofrer. Gostaria de ajudar no discord.js (Meu sonho)
+
+## Redes sociais:
+[Discord]() ToledoSDL#0157
+
+[Youtube](https://youtube.com/c/ToledoSDL)
+
+[Twitch](https://twitch.tv/ToledoSDL)
+
+[Linkedin não fiz ainda kk]()
