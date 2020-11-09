@@ -14,10 +14,21 @@ Um curso muito bom, recomendo a todos
 Estou estudando um pouco de C# Uma linguagem curiosa que me faz sofrer. Gostaria de ajudar no discord.js (Meu sonho)
 
 ## Redes sociais:
-[Discord]() ToledoSDL#0157
-
 [Youtube](https://youtube.com/c/ToledoSDL)
 
 [Twitch](https://twitch.tv/ToledoSDL)
 
-[Linkedin não fiz ainda kk]()
+[Linkedin]()
+
+---
+
+<p align = "center">
+  <a href="https://github.com/joaorceschini/">
+    <img src = "https://github-readme-stats.vercel.app/api?username=ToledoSDL&show_icons=true&theme=white&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ToledoSDL&layout=demo&theme=dark">
+  </a>
+</p>
+
+<h4 align="center">
+    Perfil de Lucas Toledo
+</h4>
