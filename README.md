@@ -2,13 +2,6 @@
 #### Vulgo Hydra
 Oi, o meu nome é Lucas Toledo de Araújo, apelidados por muitas pessoas, como Toledo!
 
-## Um pouco mais sobre mim
-
-
-Desde os 12 anos, eu programo, seja macro para minecraft, ou apenas um console.log("Hello World!")
-
-Nasci em algum lugar do Brasil, vivo bem de saúde, nunca namorei, assisto anime, jogo CS:GO (Prata 3 KKKKKKK)
-
 ## Redes sociais:
 [Youtube](https://youtube.com/c/ToledoSDL)
 
