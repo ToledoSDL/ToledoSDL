@@ -1,6 +1,6 @@
 # ToledoSDL
 #### Vulgo Hydra
-Oi, o meu nome é Lucas Toledo de Araújo, apelidados por muitas pessoas, como Toledo!
+Oi, o meu nome é Lucas Toledo, apelidados por muitas pessoas, como Toledo!
 
 ## Redes sociais:
 [Youtube](https://youtube.com/c/ToledoSDL)
