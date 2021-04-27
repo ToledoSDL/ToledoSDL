@@ -7,5 +7,7 @@ Heyy! My name is lucas, but you can call me toledo, I am a teenager who loves to
 [Discord bot](https://hydrabot.xyz)
 [Twitch channel](https://twitch.tv/ToledoSDL)
 
-![](https://github.com/ToledoSDL/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ToledoSDL/github-stats/blob/master/generated/languages.svg)
+<a href="https://github.com/ToledoSDL">
+  ![](https://github.com/ToledoSDL/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/ToledoSDL/github-stats/blob/master/generated/languages.svg)
+</a>
