@@ -171,7 +171,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br>
 <a href="https://github.com/ToledoSDL" align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ToledoSDL)](https://github.com/ToledoSDL)
+![trophy](https://github-profile-trophy.vercel.app/?username=ToledoSDL)
 
 </a>
 </details>
@@ -181,7 +181,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToledoSDL&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToledoSDL&hide_border=true)
 
 </a>
 </details>
