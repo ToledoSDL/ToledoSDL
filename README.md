@@ -10,7 +10,7 @@ Heyy! My name is lucas, but you can call me toledo, I am a teenager who loves to
 
 <a href="https://github.com/ToledoSDL" align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ToledoSDL&column=3&margin-w=15&margin-h=15)](https://github.com/ToledoSDL)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ToledoSDL)](https://github.com/ToledoSDL)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToledoSDL&hide_border=true)](https://git.io/streak-stats)
 ![](https://github.com/ToledoSDL/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/ToledoSDL/github-stats/blob/master/generated/languages.svg)
