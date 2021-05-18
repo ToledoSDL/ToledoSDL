@@ -107,7 +107,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
     </td>
     <td align="center" width="96">
       <a href="#css">
-        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="35" height="48" alt="CSS" />
+        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
