@@ -1,4 +1,4 @@
-Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to program, and I know several languages. Particularly I have a great knowledge about javascript and nodejs, currently working on my discord bot, which has more than 5,000 servers and 900,000 users
+Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to program, and I know several languages. Particularly I have a great knowledge about javascript and nodejs, currently working on my discord bot, which has more than 6,000 servers and 1,000,000 users
 
 ## Social networks
 
