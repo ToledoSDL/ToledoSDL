@@ -9,6 +9,15 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 
 <br />
 
+<summary> ⏱️ Total time coded since Jan 19 2022: </summary>
+<a href="https://github.com/ToledoSDL" align="center">
+
+<figure><embed src="https://wakatime.com/share/@7a37dda6-8902-492d-9519-5859d3b7db56/6faecb4c-80f4-45bd-86b5-8ee3df7a2b94.svg"></embed></figure>
+
+</a>
+
+<br />
+
 ># Skills, tools and frameworks:
 
 <table>
@@ -166,9 +175,14 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 
 <br />
 
+<center>
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToledoSDL&layout=compact&theme=tokyonight)](https://github.com/ToledoSDL)
+</center>
+
+
 <details>
 <summary>🏆 Github Profile Trophy</summary>
-<br>
+<br />
 <a href="https://github.com/ToledoSDL" align="center">
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=ToledoSDL)
@@ -181,7 +195,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToledoSDL&hide_border=true)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToledoSDL)](https://github.com/ToledoSDL)
 
 </a>
 </details>
