@@ -195,7 +195,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToledoSDL)](https://github.com/ToledoSDL)
+[![Wakatime](https://wakatime.com/badge/user/7a37dda6-8902-492d-9519-5859d3b7db56.svg)](https://wakatime.com/@7a37dda6-8902-492d-9519-5859d3b7db56)
 
 </a>
 </details>
