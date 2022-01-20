@@ -10,7 +10,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br />
 
 <details>
-<summary>⏱️ Total time coded since Jan 19 2022:7</summary>
+<summary>⏱️ Total time coded since Jan 19 2022:</summary>
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
 
@@ -194,7 +194,7 @@ Heyy! My name is lucas, but you can call me Toledo, I am a teenager who loves to
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
 
-[![Wakatime](https://wakatime.com/badge/user/7a37dda6-8902-492d-9519-5859d3b7db56.svg)](https://wakatime.com/@7a37dda6-8902-492d-9519-5859d3b7db56)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToledoSDL&hide_border=true)
 
 </a>
 </details>
