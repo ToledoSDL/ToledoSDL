@@ -1,6 +1,8 @@
-Heyy! My name is Lucas, but you can call me Toledo, I am a teenager who loves to program, and I know several languages. Particularly I have a great knowledge about javascript and nodejs, currently working on my discord bot, which has more than +10,000 servers and +1,500,000 users
+Heyy! My name is Lucas, but you can call me Toledo, I am a teenager who loves to program, and I know several languages. Particularly I have a great knowledge about JavaScript, TypeScript and Python, currently working on my E-Way Development.
 
-## Social networks
+Ex-Creator of a discord bot, which has more than +10,000 servers and +1,500,000 users.
+
+> ## Social networks
 
 - <a href="https://youtube.com/c/ToledoSDL" target="_blank">Youtube channel</a>
 - <a href="https://hydrabot.xyz/discord" target="_blank">Discord server</a>
@@ -9,20 +11,18 @@ Heyy! My name is Lucas, but you can call me Toledo, I am a teenager who loves to
 
 <br />
 
-<details>
-<summary>⏱️ Total time coded since Jan 19 2022:</summary>
+> ## ⏱️ Total time coded since Jan 19 2022
 <br />
 <a href="https://github.com/ToledoSDL" align="center">
-
 [![Wakatime](https://wakatime.com/badge/user/7a37dda6-8902-492d-9519-5859d3b7db56.svg)](https://wakatime.com/@7a37dda6-8902-492d-9519-5859d3b7db56)
-
 </a>
-</details>
 
 <br />
 
-># Skills, tools and frameworks:
+> ## Skills, tools and frameworks
 
+<br />
+<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=toledosdl' />
 
 <br />
 
