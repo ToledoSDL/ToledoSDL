@@ -12,10 +12,10 @@ Ex-Creator of a discord bot, which has more than +10,000 servers and +1,500,000 
 <br />
 
 > ## ⏱️ Total time coded since Jan 19 2022
-<br />
-<a href="https://github.com/ToledoSDL" align="center">
-[![Wakatime](https://wakatime.com/badge/user/7a37dda6-8902-492d-9519-5859d3b7db56.svg)](https://wakatime.com/@7a37dda6-8902-492d-9519-5859d3b7db56)
-</a>
+
+ <br />
+
+<a href="https://github.com/ToledoSDL" align="center"> [![Wakatime](https://wakatime.com/badge/user/7a37dda6-8902-492d-9519-5859d3b7db56.svg)](https://wakatime.com/@7a37dda6-8902-492d-9519-5859d3b7db56) </a>
 
 <br />
 
