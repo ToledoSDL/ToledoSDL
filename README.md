@@ -1,8 +1,8 @@
 ## Hi! My name is Lucas Toledo, but you can just call me Toledo
 
-I'm a 16 year old teenager who has been programming since I was 12, I live in Brazil in a city close to Belo Horizonte, capital of Minas Gerais. I like to play some games from time to time and my favorite food is hamburgers (mainly chicken ones), but I also like to decorate and organize my work environment. I try to do my best in all the projects I work on, especially when this project has challenges to complete. I work with different languages and technologies, but I currently focus on TypeScript, I am a developer who has knowledge of Front-End, Back-End and DevOps. I can speak English at an intermediate level and Portuguese fluently.
+I'm a 16-year-old teenager who has been programming since I was 12 and I live in Brazil. I'm always looking to do my best in every project and company I work for, especially when there are challenges to complete. I have knowledge in several languages and technologies, but currently focusing on TypeScript. I'm always contributing to open source projects and the areas I work in, in general, are Front-End, Back-End and DevOps.
 
-- Currently working at E-Way Development company.
+- Currently working at E-Way Development Company.
 - Creator of a discord bot that became very famous, with more than two million users.
 
 ## 🔗 Useful links
