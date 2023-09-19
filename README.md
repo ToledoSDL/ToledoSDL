@@ -2,14 +2,11 @@
 
 I'm a 16-year-old teenager who has been programming since I was 12 and I live in Brazil. I'm always looking to do my best in every project and company I work for, especially when there are challenges to complete. I have knowledge in several languages and technologies, but currently focusing on TypeScript. I'm always contributing to open source projects and the areas I work in, in general, are Front-End, Back-End and DevOps.
 
-- Currently working at E-Way Development Company.
 - Creator of a discord bot that became very famous, with more than two million users.
 
 ## 🔗 Useful links
 
 - <a href="https://youtube.com/c/ToledoSDL" target="_blank">Youtube channel</a>
-- <a href="https://hydra.ltoledo.dev" target="_blank">Discord bot</a>
-- <a href="https://ltoledo.dev" target="_blank">Portfolio</a>
 - <a href="https://twitch.tv/ToledoSDL" target="_blank">Twitch channel</a>
 
 ## ⏱️ Total time coded since Jan 19 2022
