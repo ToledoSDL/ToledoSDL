@@ -1,6 +1,6 @@
 ## Hi! My name is Lucas Toledo, but you can just call me Toledo
 
-I'm a 18 year old teenager who has been programming since I was 12 and I live in Brazil. I'm always looking to do my best in every project and company I work for, especially when there are challenges to complete. I have knowledge in several languages and technologies, but currently focusing on TypeScript. I'm always contributing to open source projects and the areas I work in, in general, are Front-End, Back-End and DevOps.
+I'm a 18 year old teenager who has been programming since I was 11 and I live in Brazil. I'm always looking to do my best in every project and company I work for, especially when there are challenges to complete. I have knowledge in several languages and technologies, but currently focusing on TypeScript. I'm always contributing to open source projects and the areas I work in, in general, are Front-End, Back-End and DevOps.
 
 - Creator of a discord bot that became very famous, with more than two million users.
 
